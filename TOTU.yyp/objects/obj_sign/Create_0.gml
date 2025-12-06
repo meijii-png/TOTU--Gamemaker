@@ -1,0 +1,1 @@
+message_text = "Find your way out of the maze!"

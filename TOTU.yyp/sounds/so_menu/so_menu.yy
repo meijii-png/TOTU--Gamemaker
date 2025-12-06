@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"so_menu",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":32.0,
+  "exportDir":"",
+  "name":"so_menu",
+  "parent":{
+    "name":"Menu System",
+    "path":"folders/Menu System.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"so_menu.mp3",
+  "volume":1.0,
+}

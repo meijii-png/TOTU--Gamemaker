@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_fogMasked",
+  "name":"shd_fogMasked",
+  "parent":{
+    "name":"TOTU",
+    "path":"TOTU.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
